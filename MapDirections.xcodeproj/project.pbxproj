@@ -12,6 +12,7 @@
 		379354842216FDB700B32EAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 379354822216FDB700B32EAD /* Main.storyboard */; };
 		379354862216FDB800B32EAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 379354852216FDB800B32EAD /* Assets.xcassets */; };
 		379354892216FDB800B32EAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 379354872216FDB800B32EAD /* LaunchScreen.storyboard */; };
+		3793549122171FEE00B32EAD /* MyAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3793549022171FEE00B32EAD /* MyAnnotation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		379354852216FDB800B32EAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		379354882216FDB800B32EAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3793548A2216FDB800B32EAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3793549022171FEE00B32EAD /* MyAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAnnotation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3793547E2216FDB700B32EAD /* AppDelegate.swift */,
 				379354802216FDB700B32EAD /* ViewController.swift */,
+				3793549022171FEE00B32EAD /* MyAnnotation.swift */,
 				379354822216FDB700B32EAD /* Main.storyboard */,
 				379354852216FDB800B32EAD /* Assets.xcassets */,
 				379354872216FDB800B32EAD /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				379354812216FDB700B32EAD /* ViewController.swift in Sources */,
 				3793547F2216FDB700B32EAD /* AppDelegate.swift in Sources */,
+				3793549122171FEE00B32EAD /* MyAnnotation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
